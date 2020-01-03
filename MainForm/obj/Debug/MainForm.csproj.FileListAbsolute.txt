@@ -1,0 +1,83 @@
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\MainForm.exe
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\MainForm.pdb
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.mainForm.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.exe
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.pdb
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.adminLogin.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.adminMain.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\MySql.Data.dll
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\Google.Protobuf.dll
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\Renci.SshNet.dll
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\BouncyCastle.Crypto.dll
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\bin\Debug\MySql.Data.xml
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.multiPurposeLoginForm.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.doctorMain.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.docPrescribeMed.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.docPrescribeTest.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.nurseMain.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.nurseCheckPatient.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.nurseAllotRoom.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.nurseDischarge.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.doctorAppointNurses.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.doctorTreatsPatient.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.nurseSchedule.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistMain.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistQuantity.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistViewAll.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistAddMedicine.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistModifyMedicine.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.patientLoginForm.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.patientOldLoginForm.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.patientNewLoginForm.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.patientMain.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.internMain.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.internDiagnose.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.nurseViewAllPatients.resources
+F:\Manipal Institute of Technology\Labs\Semester 5\D.B.S. Lab\Mini Project\MainForm\MainForm\obj\Debug\MainForm.doctorSchedule.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\MainForm.exe
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\MainForm.pdb
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\MySql.Data.dll
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\Google.Protobuf.dll
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\Renci.SshNet.dll
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\BouncyCastle.Crypto.dll
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\bin\Debug\MySql.Data.xml
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.adminLogin.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.adminMain.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.docPrescribeMed.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.docPrescribeTest.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.doctorAppointNurses.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.doctorMain.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.doctorSchedule.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.doctorTreatsPatient.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.internDiagnose.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.internMain.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.mainForm.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.multiPurposeLoginForm.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.nurseAllotRoom.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.nurseCheckPatient.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.nurseDischarge.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.nurseMain.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.nurseSchedule.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.nurseViewAllPatients.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.patientLoginForm.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.patientMain.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.patientNewLoginForm.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.patientOldLoginForm.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistAddMedicine.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistMain.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistModifyMedicine.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistQuantity.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.pharmacistViewAll.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.exe
+D:\imp pdf's\Notes\SEM V\DBS LAB\Project\MainForm\MainForm\obj\Debug\MainForm.pdb
